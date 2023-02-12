@@ -56,6 +56,7 @@ const IndexPage = () => {
                 <li>From signup to globally deployed in <strong>&lt;5min</strong></li>
                 <li>Your code runs within <strong>milliseconds</strong> of your users worldwide</li>
                 <li>Say goodbye to cold starts—support for <strong>0ms&nbsp;worldwide</strong></li>
+                <li>Secure Worker-to-origin server communication with <strong> Mutual TLS </strong></li>
               </ul>
             </div>
           </div>
@@ -238,7 +239,8 @@ const IndexPage = () => {
               <div className="PlansSection--plan-details">
                 <ul className="UnorderedListWorkersThemed">
                   <li>Deploy up to 30 Worker scripts</li>
-                  <li>Runs on all 275+ network locations</li>
+                  <li>Runs on all 285+ network locations</li>
+                  <li>Mutual TLS authentication for Workers </li>
                   <li>Free workers.dev subdomain</li>
                   <li>Up to 10ms CPU time per request</li>
                   <li>Lowest latency after the first request</li>
